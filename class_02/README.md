@@ -1,12 +1,12 @@
 # Class 02
 
 - [Tabela ASCII](https://www.matematica.pt/util/resumos/tabela-ascii.php)
+- Boolean
+- class_01_clean
 - Identação
-- Teclas utilizadas (home, end, shift, ctrl, alt)
 - Sintaxe e Semântica
-- Como estudar: Assistir > Implementar (testar cada alteração)
+- Teclas utilizadas (home, end, shift, ctrl, alt)
 - Operações Aritméticas: (+ - / * %)
-- Precedência de Operadores (PEMDAS)
 
 ## Plus
 
