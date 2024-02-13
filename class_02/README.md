@@ -2,15 +2,15 @@
 
 - [Tabela ASCII](https://www.matematica.pt/util/resumos/tabela-ascii.php)
 - Boolean
-- class_01_clean
-- Identação
+- %d em clean/class_01_clean
+- Indentação
 - Sintaxe e Semântica
-- Teclas utilizadas (home, end, shift, ctrl, alt)
-- Operações Aritméticas: (+ - / * %)
+- Teclas muito utilizadas (home, end, shift, ctrl, alt, seta)
+- Operações Aritméticas: (+ - * / %)
 
 ## Plus
 
-> #### Índices de Linguagens mais Usadas
+> #### Índices das Linguagens mais Usadas
 
 - [PYPL PopularitY of Programming Language](https://pypl.github.io/PYPL.html)
 - [Top languages used in 2022](https://octoverse.github.com/2022/top-programming-languages)
