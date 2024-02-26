@@ -13,12 +13,12 @@
 - Python: Machine Learning, IoT, Data Science, cálculos computacionais, 
 simulações (estatística, física etc)
 Vantagens: fácil aprendizado, muito utilizada
-</br>
+<br>
 - Java: Backend, apps desktop e mobile, multiplataforma, muito utilizada no mercado
 Vantagens: escalabilidade, portabilidade e retrocompatibilidade
-</br>
+<br>
 - C#: Backend e Frontend(menos utilizado), apps desktop e mobile, mais utilizada em sistemas windows.
 Vantagens: Performance e segurança
-</br>
+<br>
 - Javascript (HTML e CSS): Frontend e posteriormente Backend com Node e Typescript
 Vantagens: iniciar na programação web para aprender outras bibliotecas e frameworks utilizados atualmente.
