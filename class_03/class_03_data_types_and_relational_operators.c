@@ -35,7 +35,7 @@ int main() {
         printf("char %d > int %d\n", char_value, int_value); // ASCII
     }
     
-    if ((float) double_value < float_value) {
+    if (double_value < float_value) {
         printf("double %.2lf < float %.2f\n", double_value, float_value);
     }
     

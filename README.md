@@ -19,6 +19,7 @@
 
 # Tools
 ```
+Git
 Visual Studio Code (Code Editor)
 MinGW for Windows (gcc)
 ```
