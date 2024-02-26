@@ -1,5 +1,5 @@
 # Class 03
-- Operadores relacionais e tipos da dados
+- Tipos de Dados e Operadores Relacionais
 - int, float, double, char, _Bool
 - Comparadores (== >= =< < > !=)
 
