@@ -10,6 +10,7 @@
 -  Assistir > Implementar (testar cada alteração)
 
 > #### Quais outras linguagens estudar
+```
 - Python: Machine Learning, IoT, Data Science, cálculos computacionais, 
 simulações (estatística, física etc)
 Vantagens: fácil aprendizado, muito utilizada
@@ -22,3 +23,4 @@ Vantagens: Performance e segurança
 
 - Javascript (HTML e CSS): Frontend e posteriormente Backend com Node e Typescript
 Vantagens: iniciar na programação web para aprender outras bibliotecas e frameworks utilizados atualmente.
+```
