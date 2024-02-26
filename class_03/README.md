@@ -1,7 +1,7 @@
 # Class 03
 - Tipos de Dados e Operadores Relacionais
-- int, float, double, char, _Bool
-- Comparadores (== >= =< < > !=)
+- Tipos de Dados (int, char, float, double, _Bool)
+- Operadores Relacionais (== >= <= < > !=)
 
 ## Plus
 > #### Como estudar

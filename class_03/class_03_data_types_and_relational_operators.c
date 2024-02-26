@@ -3,7 +3,7 @@
 int main() {
     int int_value = 10;         // 32 bits 4 bytes -2,147,483,648 to 2,147,483,647
     char char_value = 'A';      //  8 bits 1 byte  -128 to 127
-    float float_value = 3.33;   // 32 bits 4 bytes 1.2E-38 to 3.4E+38
+    float float_value = 3.33;   // 32 bits 4 bytes 1.2E-38 to 3.4E+38 equal 1.2 * 10 ^ -38
     double double_value = 6.66; // 64 bits 8 bytes 1.7E-308 to 1.7E+308
     _Bool _Bool_value = 0;      //  8 bits 1 byte  0 or 1
     
