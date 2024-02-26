@@ -20,7 +20,7 @@
 # Tools
 ```
 Visual Studio Code (Code Editor)
-MINGW for Windows (gcc)
+MinGW for Windows (gcc)
 ```
 
 # VS Code Extensions
