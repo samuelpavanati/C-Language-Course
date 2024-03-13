@@ -14,7 +14,7 @@ int main() {
         printf("Enter the hypotenuse and then the leg\n");
         scanf(" %f %f", &c, &a); // 5 4
         
-        b = sqrt(c*c - a*a);
+        b = sqrt(pow(c, 2) - a*a);
         printf("Leg = %.2f\n", b);
     
     } else if (choice == 1) {
