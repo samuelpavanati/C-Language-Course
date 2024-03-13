@@ -1,0 +1,11 @@
+# Class 04
+- Expressões numéricas
+- Função scanf
+- Compilador gcc
+- Precedência de Operadores (PEMDAS) // {[()]} -> ((()))
+- Biblioteca math.h
+- Teorema de Pitágoras: pow sqrt
+- Fórmula de Báskara: sqrt
+
+## Plus
+- [Como instalar: gcc e vscode](https://www.youtube.com/watch?v=eDzQ6HkmGa4)
