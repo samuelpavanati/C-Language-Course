@@ -1,5 +1,5 @@
 # Class 04
-- Expressões numéricas
+- Expressões matemáticas
 - Função scanf
 - Compilador gcc
 - Precedência de Operadores (PEMDAS) // {[()]} -> ((()))
